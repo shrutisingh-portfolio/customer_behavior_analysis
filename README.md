@@ -52,6 +52,7 @@ Built an interactive dashboard with:
 📊 Dashboard Preview
 
 📈 Key Insights
+
 Identified top-performing product categories
 Analyzed customer segments contributing to revenue
 Observed trends in purchase frequency and spending
