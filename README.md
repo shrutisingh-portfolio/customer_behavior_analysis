@@ -44,6 +44,7 @@ Purchase patterns
 🔹 Dashboard (Power BI)
 
 Built an interactive dashboard with:
+
 📌 Total Customers
 💰 Average Purchase Amount
 ⭐ Average Review Rating
