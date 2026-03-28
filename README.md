@@ -1,7 +1,10 @@
 📊 Customer Behavior Analysis Dashboard
 🔍 Overview
+
 This project analyzes customer shopping behavior to uncover actionable insights for business decision-making. It demonstrates an end-to-end data analytics workflow — from data processing to visualization and reporting.
+
 📁 Dataset
+
 The dataset includes:
 Customer demographics (Gender, Location)
 Purchase details (Item, Amount, Frequency)
