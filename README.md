@@ -66,8 +66,8 @@ jupyter notebook
 🔹 Run SQL (PostgreSQL)
 Create a database
 Import dataset
-
 Execute SQL queries
+
 🔹 View Dashboard
 Open .pbix file in Power BI Desktop
 
